@@ -1,0 +1,19 @@
+{
+  "name": "development-writeup",
+  "version": "1.0.0",
+  "description": "csci1300 development assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smarti86/development-writeup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smarti86/development-writeup/issues"
+  },
+  "homepage": "https://github.com/smarti86/development-writeup#readme"
+}
